@@ -1,13 +1,38 @@
-# Computer Vision test
+## Computer Vision test
 
-This repo has 3 document files. Please, develop  a script or program using language as more conformable for you to extract text as max as possible that you can. We don't expect extract all text in these images, we would like to know a little bit about your developer skill and computer vision. 
+There is a script for each one of the test images, which were renamed as follow:
 
-# Instructions
+* `coroatá-3.jpg` - `image1.jpg`
 
-Fork this project in the a private project and create a branch. When you want to our review, create a PR and put any information that you think is important. Consider we follow your instructions to run your code and look the outcome.
+* `3320114_2_0002.jpg` - `image2.jpg`
+
+* `emory1877_0002.jpg` - `image3.jpg`
 
 
-# Tip
+Codes were developed on the following python version and packages:
 
-* Don't need to delivery optimization script/software
-* It's better if you use opensource tools and libraries
+* python 3.7.0
+
+* numpy 1.15.1
+
+* opencv 3.4.2
+
+* pytesseract 0.2.4
+
+And tesseract 3.05.02  Homebrew formula.
+
+### Running
+
+To run the scripts: 
+
+`python ocr1.py images/image1.jpg`
+
+`python ocr2.py images/image2.jpg`
+
+`python ocr3.py images/image3.jpg`
+
+or `python ocrX.py -h` for help.
+
+
+
+
