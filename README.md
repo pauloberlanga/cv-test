@@ -15,13 +15,19 @@ Codes were developed on the following python version and packages:
 
 * numpy 1.15.1
 
-* opencv 3.4.2
+* opencv-python 3.4.3.18
+
+* matplotlib 2.2.3
 
 * pytesseract 0.2.4
 
 And tesseract 3.05.02  Homebrew formula.
 
 ### Running
+
+To install dependencies:
+
+`pip install -r requirements.txt`
 
 To run the scripts: 
 
