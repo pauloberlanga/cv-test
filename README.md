@@ -21,7 +21,7 @@ We expect that a solution could be reasonably achieved within 2 weeks (14 runnin
 
 All the datasets are located into a single compressed file in [this link](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view?usp=sharing). 
 
-    Note that the file is quite big (~1 Gb), but we believe that a few minutes could deal with it :wink:
+    Note that the file is quite big (~1 Gb), but we believe that a few minutes could deal with it
 
 
 ## Upload code solutions
@@ -35,10 +35,8 @@ After all the analysis and coding being done, create a pull request (PR) in this
 As an extra help, use the following checklist to verify if everything is ok:
 
 - [ ] Downloaded all the test files using the [link](https://drive.google.com/file/d/1LhH_5ULfyrobD60SZqIfoI56eV3HuDNI/view?usp=sharing).
-- [ ] Create a suitable solution for each test, e.g. using scripts, open-source libraries, own-code solutions, etc.
+- [ ] Create a suitable solution for each test, e.g. using scripts, open-source libraries, own-code solutions, etc. Consider we follow your instructions to run your code and look the outcome.
 - [ ] Make commentaries or auxiliary documentation files (e.g. README files) to assist the interpretation of your solutions.
 - [ ] Save the resulting code, scripts, etc on separated folders with complies with the same name as the input dataset (just to help us :+1:)
 - [ ] Prepare the commits on the PR using the branch with your first + last name in it.
-- [ ] Submit the PR! (fingers crossed :smile:)
-
-    Consider we follow your instructions to run your code and look the outcome.
+- [ ] Submit the PR! (fingers crossed :blush:)
