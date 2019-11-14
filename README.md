@@ -28,7 +28,7 @@ All the datasets are located into a single compressed file in [this link](https:
 
 Fork this project and create a branch with your `first + last` name on it. For instance, a branch naming "Antonio Silva" will define that the candidate with the same name is uploading the code with the solution for each test. Please, give the scripts and code in separate folders (with the same name as the provided file folders) to facilitate our analysis. Also, we expect that the candidate can explain the procedure and strategy adopted by using a lot of commentaries or even a separated README file. Be free to choose what is more suitable for you, but keep it simple and clear to understand. 
 
-After all the analysis and coding being done, create a pull request (PR) in this repository. 
+After all the analysis and coding being done, create a pull request (PR) in this repository. Please, remember to also put the additional data for analysis, e.g. resulting images, spreasheets, etc.
 
 # Summary
 
